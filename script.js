@@ -1,13 +1,13 @@
 
 var certificate_links = 
     [
-        '2024 C_Programming_Bootcamp.jpg', 'C_Programming.pdf',
+        '2024 C_Programming_Bootcamp.jpg', 'C_Programming.pdf', 'HardwareEssentials_and_DeviceDriverDevelopment.pdf'
 
     ];
 
 var certificate_titles = 
     [
-        '2024 C_Programming_Bootcamp (Udemy)', 'C_Programming (Mahara-Tech)',
+        '2024 C_Programming_Bootcamp (Udemy)', 'C_Programming (Mahara-Tech)', 'Hardware Essentials and Device Driver Development (Mahara-Tech)'
 
     ];
 
@@ -15,6 +15,7 @@ var certificate_desc =
     [
         'Completed a comprehensive revision course on C programming, reinforcing problem-solving skills, pointers, memory management, and algorithmic thinking. Gained hands-on experience in debugging, optimizing code, and implementing efficient data structures.',
         'Developed a deep understanding of C programming, covering core concepts such as pointers, memory management, structures, and unions. Enhanced problem-solving abilities through hands-on coding exercises and optimized algorithm implementation.',
+        'I gained valuable insights into Layered Architecture design, understanding how to organize systems from Library Layer to Application Layer, which ensures modularity, portability, and proper separation of concerns in embedded software development. Additionally, I learned about Device Driver Structure with its four key components (Interface, Configuration, Private, and Program files) and how configuration parameter options enable handling different hardware versions while maintaining software characteristics like low coupling, high cohesion, and portability through effective abstraction techniques.',
     ];
 
 
